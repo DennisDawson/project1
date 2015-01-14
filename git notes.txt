@@ -14,5 +14,7 @@ Pull
 Fetch
 
 tickle
+<<<<<<< HEAD
 
-a collision
+No collision
+>>>>>>> FETCH_HEAD
