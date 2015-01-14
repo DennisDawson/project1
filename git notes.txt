@@ -1,0 +1,14 @@
+git init new repository
+git add File
+git commit -m message
+
+You can explicitly set what will be in the next commit.
+
+My question:
+
+Best practices for multiple changes to the same file in different branches. (e.g., Table of Contents). Review doesn't keep up with the changes I want to make in the docs. The documentation is expected to be ready to publish at any time.
+
+Push
+        >  Sync
+Pull
+Fetch
